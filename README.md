@@ -1,4 +1,4 @@
-# masterofthetiger.github.io
-My website. I used to host it with x10hosting.com, but now I am using GitHub Pages. 
+# aezloman.github.io
+My website. I used to host it with godaddy.com, but now I am using GitHub Pages. 
 
-View it at http://masterofthetiger.tk
+View it at http://athelo.net
