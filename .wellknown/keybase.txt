@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/aezloman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://athelo.net
+  * I am aezloman (https://keybase.io/aezloman) on keybase.
+  * I have a public key with fingerprint CBB7 3B37 8215 B99E DD55  FEEC 6341 DC69 0D2E 0757
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017abee00beb2452097b1d2d6216c598c0b3e4c0f50db7a5f49eac03537d0d62520a",
+      "fingerprint": "cbb73b378215b99edd55feec6341dc690d2e0757",
+      "host": "keybase.io",
+      "key_id": "6341dc690d2e0757",
+      "kid": "01017abee00beb2452097b1d2d6216c598c0b3e4c0f50db7a5f49eac03537d0d62520a",
+      "uid": "912dac9962d044c2ab73194d2dd1ed19",
+      "username": "aezloman"
+    },
+    "service": {
+      "hostname": "athelo.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1520639224,
+  "expire_in": 157680000,
+  "prev": "014b9656af499b6d29d5a51a3ac89000b512706f055f66116fcf8d25309c6a11",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIgAnicrZJbSFRBGMd3vZYVmkgPdqNTRJAuM+cyZ2ejIKSXskwjk4qWmTOz7kk9
+Zzt7dvOCUVFElGkiJdZDIURIN4mwB+0iRYaaFwryLeihzKyXKMOg5ki+9di8DPPx
++//n/30zz5ak+rL81z7Wzz7O27PKP/i0LeHb37lipkGiNquTQg1SFZ/beDXjcTdc
+ZTIpJAEIoE4o5wBQTmVVkwHWKWQyQzJEhoaDBqAKVw0Q0QCjOtEiKubEAIqm6AwI
+SiiIVCBFTKuSOzHHtFxha1CqK1TRgzLUKMacMU2LcG4gRYXMQBgwmQNd04Uwasc9
+hQhHSZwHTFvUxCE8F+8f/H/OnZizw1BmxMAYyQyoqiETER9iVdgxyBnEHhjnjkVq
+uKAJr6+2a4glNRZIopo0De4N1utknnCjvNoOWNwVyphju7ZhV4t61HVjIU/m1sU8
+7iin4b8OYWpaTAxRCJLciZu2JYWgIA3X9CyhyIsULMtqgcRrY6bDw6ZHaDoKArG8
+a3hybjIqxUhDRDSMKWIyZhrRIFGIEcQCpBqUdYAiQLwIQhCiiBEJMllTADYQgVDy
+ejpi2VJIETFJpbCMm5UWcRMOlxr7nxxM8/mzfBnpKd7n8mUtzJn/cmtOZP70z6LQ
+QGt7TvzQuebd070f8p2bo9mTfYm+L7c/He0vyL3Q8Sg31LNsbRms+X6/t+WdAr9t
+nTp7PbP1blZ226Lba762uywjN390e2HaQNfx02WbcnltorAZbmlq/TXz5eGl90MT
+z3/tVVJ7SkaW+yc/v8D5TW2TK8sHKmanXj+4erF0HJyKBjbcqjJ3vure1/ijVMlu
+uNIRKlndOxs8ttLXWzi0dHFxtDsvduH8WIl/4lZzS9O9irXkLHdrN2fSn8UHXm4k
+b7YXbU6WT28rG3ZQkYw63+4cuWFeXj98uKFqgi+I/M5pHKsf6lqWdyrdWPH2TN3J
+74Mp6XfOBZLj63bc2PUH8As6yw==
+=2gZW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aezloman
+
+==================================================================
